@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<classifications type_id="opencv-matrix">
+  <rows>100</rows>
+  <cols>1</cols>
+  <dt>i</dt>
+  <data>
+    0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 3 3 3 3
+    3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6
+    6 6 7 7 7 7 7 7 7 7 7 7 8 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9</data></classifications>
+</opencv_storage>
